@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj": {}
+    "D:\\PragyaA\\Day-39\\Day-42\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj": {
+    "D:\\PragyaA\\Day-39\\Day-42\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj",
+        "projectUniqueName": "D:\\PragyaA\\Day-39\\Day-42\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj",
         "projectName": "WebAppAPIExCore",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WebAppAPIExCore\\WebAppAPIExCore\\obj\\",
+        "projectPath": "D:\\PragyaA\\Day-39\\Day-42\\WebAppAPIExCore\\WebAppAPIExCore\\WebAppAPIExCore.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PragyaA\\Day-39\\Day-42\\WebAppAPIExCore\\WebAppAPIExCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
